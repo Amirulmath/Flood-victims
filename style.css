@@ -13,6 +13,11 @@ h1 {
     font-weight: 700;
 }
 
+h2 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
 p {
     font-size: 24px;
 }
@@ -71,4 +76,44 @@ p {
 
 #Next-Button {
     padding: 30PX;
+}
+
+.Donate-plan {
+    padding: 10%;
+}
+
+#Donate-top {
+    text-align: center;
+}
+
+.Our-plan {
+    display: flex;
+    padding: 2%;
+}
+
+#Food-family {
+    background-color: rgb(163, 196, 235);
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+#Shelter-family {
+    background-color: rgb(233, 156, 210);
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+#Edu-student {
+    background-color: rgb(220, 228, 153);
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 5px;
 }
